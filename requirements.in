@@ -1,0 +1,8 @@
+Flask
+requests
+pillow
+pillow-heif
+pytz
+# optional (uncomment if you deploy with them)
+# gunicorn
+# python-dotenv
